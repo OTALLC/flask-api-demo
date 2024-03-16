@@ -1,2 +1,3 @@
 # flask-api-demo
-Repo for public code. 
+
+See app.py for code used during demo video.
